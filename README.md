@@ -214,6 +214,7 @@ streamlit run travel_agent.py
 *   [🎮 AI 3D Pygame Agent](advanced_ai_agents/autonomous_game_playing_agent_apps/ai_3dpygame_r1/)
 *   [♜ AI Chess Agent](advanced_ai_agents/autonomous_game_playing_agent_apps/ai_chess_agent/)
 *   [🎲 AI Tic-Tac-Toe Agent](advanced_ai_agents/autonomous_game_playing_agent_apps/ai_tic_tac_toe_agent/)
+*   [🏟️ LLM Colosseum](https://github.com/asp67/llm-colosseum) - A zero-dependency browser RTS game where local/cloud LLMs battle in real-time to test JSON tool calling, tempo, and agentic strategy.
 
 ### ♾️ MCP AI Agents
 *Agents that connect to external tools and data via Model Context Protocol.*
@@ -223,7 +224,6 @@ streamlit run travel_agent.py
 *   [📑 Notion MCP Agent](mcp_ai_agents/notion_mcp_agent)
 *   [🌍 AI Travel Planner MCP Agent](mcp_ai_agents/ai_travel_planner_mcp_agent_team)
 *   [🔀 Multi-MCP Agent Router](mcp_ai_agents/multi_mcp_agent_router/)
-*   [🏟️ LLM Colosseum](https://github.com/asp67/llm-colosseum) - A zero-dependency browser RTS game where local/cloud LLMs battle in real-time to test JSON tool calling, tempo, and agentic strategy.
 
 ### 📀 RAG (Retrieval Augmented Generation)
 *Retrieval pipelines - from simple chains to agentic and multi-source.*
